@@ -1,8 +1,8 @@
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=white&lines=Welcome+to+Russian)
 <div align = "center">
   </br> </br>
   <h1>
-    ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b2577b&lines=Welcome+to+Russian)<br/>
+    𝗵𝗲𝗹𝗹𝗼 𝘁𝗵𝗲𝗿𝗲, 𝗳𝗲𝗹𝗹𝗼𝘄 <𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧𝙨/>!<br/>
   </h1>
    <h3>
       👨‍💻Languages and Github stats:
