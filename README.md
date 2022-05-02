@@ -2,6 +2,7 @@
 <div align = "center">
   </br> </br>
   <h1>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b2577b&lines=Telegram:+@bush1root)](https://t.me/bush1root)
     𝗵𝗲𝗹𝗹𝗼 𝘁𝗵𝗲𝗿𝗲, 𝗳𝗲𝗹𝗹𝗼𝘄 <𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧𝙨/>!<br/>
   </h1>
   
@@ -13,7 +14,7 @@
 
   </p>  
   <h2>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b2577b&lines=Telegram:+@bush1root)](https://t.me/bush1root)
+  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bush1root&layout=compact&theme=dracula)](https://github.com/bush1root/)
   </h2>
