@@ -12,6 +12,11 @@
       <img src="https://img.shields.io/github/followers/Jefferson1947?label=follow&style=social" alt="stats" /></a>
 
   </p>  
+  <h2>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b2577b&lines=Telegram:+@bush1root)](https://t.me/bush1root)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bush1root&layout=compact&theme=dracula)](https://github.com/bush1root/)
+  </h2>
   <h3>
       👨‍💻Languages and Tools:
   </h3> 
