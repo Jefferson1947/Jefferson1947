@@ -4,6 +4,15 @@
     𝗵𝗲𝗹𝗹𝗼 𝘁𝗵𝗲𝗿𝗲, 𝗳𝗲𝗹𝗹𝗼𝘄 <𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧𝙨/>!<br/>
   </h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jefferson1947&show_icons=true&theme=dracula)
+  <img src="https://img.shields.io/badge/java-1f1e1e?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/python-1f1e1e?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Gradle-1f1e1e?style=for-the-badge&logo=Gradle&logoColor=white"></br>
+    <img src="https://img.shields.io/badge/IntelliJ-143?style=for-the-badge&logo=intellij-idea&color=1f1e1e&logoColor=white&labelColor=black">
+    <img src="https://img.shields.io/badge/Pycharm-143?style=for-the-badge&logo=pycharm&logoColor=white&color=1f1e1e&labelColor=black">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+    
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jefferson1947&theme=dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api?username=Jefferson1947&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson1947&hide_border=true&theme=dark">
