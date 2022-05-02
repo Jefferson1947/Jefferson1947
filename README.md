@@ -12,12 +12,12 @@
       <img src="https://img.shields.io/github/followers/Jefferson1947?label=follow&style=social" alt="stats" /></a>
 
   </p>  
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b2577b&lines=Telegram:+@bush1root)](https://t.me/bush1root)
 
   <h2>
   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bush1root&layout=compact&theme=dracula)](https://github.com/bush1root/)
+     <img  height="139px" src="https://github-readme-stats.vercel.app/api?username=Jefferson1947&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=e5adff&icon_color=2234AE&text_color=ffffff&bg_color=0,265a73,582673"/>
   </h2>
   <h3>
       👨‍💻Languages and Tools:
@@ -32,6 +32,6 @@
   </p>
   <h4>
  <br/><br/>
-      <img  height="139px" src="https://github-readme-stats.vercel.app/api?username=Jefferson1947&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=e5adff&icon_color=2234AE&text_color=ffffff&bg_color=0,265a73,582673"/>
+
   </h4>
 </div>
