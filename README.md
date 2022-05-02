@@ -2,7 +2,6 @@
 <div align = "center">
   </br> </br>
   <h1>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b2577b&lines=Telegram:+@bush1root)](https://t.me/bush1root)
     𝗵𝗲𝗹𝗹𝗼 𝘁𝗵𝗲𝗿𝗲, 𝗳𝗲𝗹𝗹𝗼𝘄 <𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧𝙨/>!<br/>
   </h1>
   
@@ -13,6 +12,8 @@
       <img src="https://img.shields.io/github/followers/Jefferson1947?label=follow&style=social" alt="stats" /></a>
 
   </p>  
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=b2577b&lines=Telegram:+@bush1root)](https://t.me/bush1root)
+
   <h2>
   
 
