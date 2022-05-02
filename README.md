@@ -25,7 +25,7 @@
   </p>
   <h4>
  <br/><br/>
-      <img  height="139px" src="https://github-readme-stats.vercel.app/api?username=Madmegsox1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=e5adff&icon_color=2234AE&text_color=ffffff&bg_color=0,265a73,582673"/>
+      <img  height="139px" src="https://github-readme-stats.vercel.app/api?username=Jefferson1947
+&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=e5adff&icon_color=2234AE&text_color=ffffff&bg_color=0,265a73,582673"/>
   </h4>
-  ![enter image description here](https://images-ext-2.discordapp.net/external/L1g7sEMHhzqZ8DkWVPC_pVxINMHnzEp_jyIfOXCgz98/https/media.discordapp.net/attachments/442709792839172099/957710327833833472/crack.gif?width=413&height=468)
 </div>
