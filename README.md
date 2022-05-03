@@ -2,7 +2,7 @@
 <div align = "center">
   </br> </br>
   <h1>
-    𝗵𝗲𝗹𝗹𝗼 𝘁𝗵𝗲𝗿𝗲, 𝗳𝗲𝗹𝗹𝗼𝘄 <𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧𝙨/>!<br/>
+    Hello there, fellow developers and other guys!<br/>
   </h1>
   <h3>
       🤖Active project:
