@@ -1,5 +1,5 @@
 <div align = "center">
-	  <img src="https://media.discordapp.net/attachments/936595673879556138/970839884539523082/08kzKgn.jpeg?width=1039&height=170" alt="Hello!!!">
+	  <img src="https://media.discordapp.net/attachments/936595673879556138/970839884539523082/08kzKgn.jpeg?width=739&height=170" alt="Hello!!!">
 
   </br> </br>
   <h1>
