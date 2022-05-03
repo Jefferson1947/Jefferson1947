@@ -1,5 +1,6 @@
-  <img src="https://media.discordapp.net/attachments/936595673879556138/970839884539523082/08kzKgn.jpeg?width=739&height=170" alt="Hello!!!">
 <div align = "center">
+	  <img src="https://media.discordapp.net/attachments/936595673879556138/970839884539523082/08kzKgn.jpeg?width=1039&height=170" alt="Hello!!!">
+
   </br> </br>
   <h1>
     𝗵𝗲𝗹𝗹𝗼 𝘁𝗵𝗲𝗿𝗲, 𝗳𝗲𝗹𝗹𝗼𝘄 <𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧𝙨/>!<br/>
