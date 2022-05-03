@@ -1,15 +1,10 @@
-
+  <img src="https://media.discordapp.net/attachments/936595673879556138/970839884539523082/08kzKgn.jpeg?width=739&height=170" alt="Hello!!!">
 <div align = "center">
   </br> </br>
   <h1>
-    Hello there, fellow developers and other guys!<br/>
+    𝗵𝗲𝗹𝗹𝗼 𝘁𝗵𝗲𝗿𝗲, 𝗳𝗲𝗹𝗹𝗼𝘄 <𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧𝙨/>!<br/>
   </h1>
-  <h3>
-      🤖Active project:
-  </h3>
-  <p>
-     > there are no active projects yet :)
-  </p>
+
    <h3>
       👨‍💻Languages and Github stats:
   </h3>
