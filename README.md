@@ -7,12 +7,12 @@
   <h3>
       🤖Active project:
   </h3>
-  > there are no active projects yet :)
+  <p>
+     > there are no active projects yet :)
+  </p>
    <h3>
       👨‍💻Languages and Github stats:
-      
   </h3>
-  
 <p>
   <img src="https://img.shields.io/badge/java-1f1e1e?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/python-1f1e1e?style=for-the-badge&logo=python&logoColor=white">
